@@ -1,6 +1,5 @@
 <p align="center">
-    <img src="![image](https://github.com/user-attachments/assets/7118c903-aecd-4e2b-a2ce-220d795a1c0b)
-">
+    <img src="!https://github.com/user-attachments/assets/7118c903-aecd-4e2b-a2ce-220d795a1c0b">
   </p>
 
 # GameConnect
